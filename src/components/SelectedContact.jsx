@@ -1,4 +1,2 @@
-function SelectedContact({contact}){
-
-}
-export default SelectedContact
+function SelectedContact({ contact }) {}
+export default SelectedContact;
